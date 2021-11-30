@@ -1,7 +1,7 @@
 let intactBlock
 let surface
 let points
-//Példányosítás és beállítások
+//Beállítások
 function setup() {
     createCanvas(canvasWidth, canvasHeight)
     generateNewBlock()
